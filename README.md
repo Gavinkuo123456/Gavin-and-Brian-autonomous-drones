@@ -2,6 +2,7 @@
 ### This project focuses on the development of a fixed-wing and quadcopter UAV system, prioritizing seamless system integration and the validation of long-range communication links. The primary objective is to execute fully autonomous inspection missions while integrating high-precision imaging for advanced terrain scanning and mapping.
 
 [See Photos](/images)
+
 [See Videos](/videos)
 
 ![detail](./images/IMG_8652.JPG)
@@ -17,6 +18,7 @@
 
 ### 2026/1/11: Second Flight (fixed wing) 
 * **Details:** Successfully performed second flight. No Abnormal situation during flight. Tried waypoint mission, waypoint too close, didn't finish whole mission.
+
 ![detail](./images/vlcsnap-2026-01-19-01h05m35s367.png)
 
 ---
