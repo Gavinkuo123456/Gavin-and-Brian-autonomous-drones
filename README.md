@@ -3,7 +3,7 @@
 
 [See Photos](/images)
 
-[See Videos](/videos)
+[See Videos](https://youtube.com/playlist?list=PLWNyrTfh_nEJ9-e06lSP6qWq3aOc7WNqu&si=ZhsQokWjzSOzx_04)
 
 ![detail](./images/IMG_8652.JPG)
 #### XUAV Sky Surfer + Longbow F405 FC
